@@ -1,0 +1,10 @@
+C:\Users\marco\OneDrive\Escritorio\Shortest Job First\bin\Debug\Shortest Job First.exe.config
+C:\Users\marco\OneDrive\Escritorio\Shortest Job First\bin\Debug\Shortest Job First.exe
+C:\Users\marco\OneDrive\Escritorio\Shortest Job First\bin\Debug\Shortest Job First.pdb
+C:\Users\marco\OneDrive\Escritorio\Shortest Job First\obj\Debug\Shortest Job First.csprojAssemblyReference.cache
+C:\Users\marco\OneDrive\Escritorio\Shortest Job First\obj\Debug\Shortest_Job_First.Properties.Resources.resources
+C:\Users\marco\OneDrive\Escritorio\Shortest Job First\obj\Debug\Shortest Job First.csproj.GenerateResource.cache
+C:\Users\marco\OneDrive\Escritorio\Shortest Job First\obj\Debug\Shortest Job First.csproj.CoreCompileInputs.cache
+C:\Users\marco\OneDrive\Escritorio\Shortest Job First\obj\Debug\Shortest Job First.exe
+C:\Users\marco\OneDrive\Escritorio\Shortest Job First\obj\Debug\Shortest Job First.pdb
+C:\Users\marco\OneDrive\Escritorio\Shortest Job First\obj\Debug\Shortest_Job_First.Form1.resources
